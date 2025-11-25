@@ -17,10 +17,6 @@
 
  **<p align="left">I'm a full-stack web developer who loves turning ideas into fast, functional, and good looking web apps. Whether it's crafting smooth interfaces or building solid back-end systems, I care about making things that feel great to use and actually solve problems.</p>**
 
- **<h2 align="left">Skills</h2>**
-
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Framer_Motion-0085FF?logo=framer&logoColor=white" height="28" alt="Framer Motion" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="28" alt="MariaDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="28" alt="C" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white" height="28" alt="Lua" style="margin-right: 4px"></div>
-
 
 <h2 align="left">👨‍💻 Software Development Projects</h2>
 
@@ -43,5 +39,34 @@
   <ul style="margin-left: 16px;">
     <li><a href="https://google.com"><b>to-do</b></a></li>
   </ul>
+
+</div>
+
+
+ **<h2 align="left">Skills</h2>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: left;">
+
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=40" alt="React">
+
+  <img src="https://img.shields.io/badge/Framer_Motion-0085FF?logo=framer&logoColor=white&style=for-the-badge&logoWidth=40" alt="Framer Motion">
+
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge&logoWidth=40" alt="Tailwind CSS">
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white&style=for-the-badge&logoWidth=40" alt="JavaScript">
+
+  <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white&style=for-the-badge&logoWidth=40" alt="Node.js">
+
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge&logoWidth=40" alt="Express">
+
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge&logoWidth=40" alt="MongoDB">
+
+  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge&logoWidth=40" alt="MariaDB">
+
+  <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white&style=for-the-badge&logoWidth=40" alt="Python">
+
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge&logoWidth=40" alt="C">
+
+  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge&logoWidth=40" alt="Lua">
 
 </div>
