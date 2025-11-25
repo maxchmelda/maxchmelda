@@ -1,6 +1,6 @@
 <h1>Hi, I'm Max! <br/>
 <a href="https://github.com/maxchmelda">Programmer</a>,
-<a href="https://cz.linkedin.com/in/max-chmel%C3%AD%C4%8Dek-087a2124b">Fullstack web developer</a>
+<a href="https://cz.linkedin.com/in/max-chmelicek">Fullstack web developer</a>
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
