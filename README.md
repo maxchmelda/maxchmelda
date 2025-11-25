@@ -21,6 +21,6 @@
 [<img align="left" alt="Max Chmelicek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Max Chmelicek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com
+[twitter]: [https://twitter.com](https://x.com/max_chmelicek)
 [instagram]: https://www.instagram.com/max.chmelicek
 [linkedin]: https://www.linkedin.com/in/max-chmelicek/
