@@ -1,26 +1,47 @@
-<h1>Hi, I'm Max! <br/>
-<a href="https://github.com/maxchmelda">Programmer</a>,
-<a href="https://cz.linkedin.com/in/max-chmelicek">Fullstack web developer</a>
+![👋 Hi, im Max!](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
+![Profile views](https://komarev.com/ghpvc/?username=maxchmelda&label=Profile%20views&color=0e75b6&style=flat)
+
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, im Max!
+      </h1>
+    </summary>
+  </ul>
+</div>
+
+**<h2 align="left">Connect with me:</h2>** 
+<p align="left"><a href="https://www.linkedin.com/in/max-chmelicek" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/max_chmelicek" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.tiktok.com/@maxos.ch" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="max.chmelicek@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+
+ **<p align="left">I'm a full-stack web developer who loves turning ideas into fast, functional, and good looking web apps. Whether it's crafting smooth interfaces or building solid back-end systems, I care about making things that feel great to use and actually solve problems.</p>**
+
+ **<h2 align="left">Skills</h2>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Framer_Motion-0085FF?logo=framer&logoColor=white" height="28" alt="Framer Motion" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="28" alt="MariaDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="28" alt="C" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white" height="28" alt="Lua" style="margin-right: 4px"></div>
 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2 align="left">👨‍💻 Software Development Projects</h2>
 
-- <b>C projects</b>
-  - [to-do](https://google.com) 
+<div align="left">
 
+  <h3>🔧 C Projects</h3>
+  <ul style="margin-left: 16px;">
+    <li><a href="https://google.com"><b>to-do</b></a></li>
+  </ul>
 
-<h2>🌐 Web Development Projects:</h2>
+</div>
 
-- <b>MERN projects</b>
-  - [to-do](https://google.com)
+---
 
-    
-<h2> 🤳 Connect with me:</h2>
+<h2 align="left">🌐 Web Development Projects</h2>
 
-[<img align="left" alt="Max Chmelicek | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Max Chmelicek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Max Chmelicek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<div align="left">
 
-[twitter]: [https://twitter.com](https://x.com/max_chmelicek)
-[instagram]: https://www.instagram.com/max.chmelicek
-[linkedin]: https://www.linkedin.com/in/max-chmelicek/
+  <h3>⚛️ MERN Projects</h3>
+  <ul style="margin-left: 16px;">
+    <li><a href="https://google.com"><b>to-do</b></a></li>
+  </ul>
+
+</div>
