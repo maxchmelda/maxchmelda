@@ -35,6 +35,10 @@
 <h2 align="left">🌐 Web Development Projects</h2>
 
 <div align="left">
+  <h3>Websites</h3>
+  <ul style="margin-left: 16px;">
+    <li><a href="https://github.com/maxchmelda/Masaze-kostelec"><b>Masáže Kostelec</b></a></li>
+  </ul>
 
   <h3>MERN stack Projects</h3>
   <ul style="margin-left: 16px;">
