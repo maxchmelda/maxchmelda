@@ -42,7 +42,7 @@
 
   <h3>Full-stack Projects</h3>
   <ul style="margin-left: 16px;">
-    <li><a href="https://github.com/maxchmelda/4life><b>4life RP</b></a></li>
+    <li><a href="https://github.com/maxchmelda/4life"><b>4life RP</b></a></li>
   </ul>
 
 </div>
