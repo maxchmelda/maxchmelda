@@ -38,6 +38,7 @@
   <h3>Websites</h3>
   <ul style="margin-left: 16px;">
     <li><a href="https://github.com/maxchmelda/Masaze-kostelec"><b>Masáže Kostelec</b></a></li>
+    <li><a href="https://github.com/maxchmelda/Vojtech-Vahala"><b>Vojtěch Vahala</b></a></li>
   </ul>
 
   <h3>Full-stack Projects</h3>
