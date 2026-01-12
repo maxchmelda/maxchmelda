@@ -25,7 +25,7 @@
 
   <h3>🔧 C Projects</h3>
   <ul style="margin-left: 16px;">
-    <li><a href="https://google.com"><b>to-do</b></a></li>
+    <li><a href="https://github.com/maxchmelda/Simple-GPA-Calculator"><b>Simple GPA Calculator</b></a></li>
   </ul>
 
 </div>
