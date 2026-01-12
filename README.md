@@ -23,7 +23,7 @@
 
 <div align="left">
 
-  <h3>🔧 C Projects</h3>
+  <h3>C/C++ Projects</h3>
   <ul style="margin-left: 16px;">
     <li><a href="https://github.com/maxchmelda/Simple-GPA-Calculator"><b>Simple GPA Calculator</b></a></li>
   </ul>
@@ -36,7 +36,7 @@
 
 <div align="left">
 
-  <h3>⚛️ MERN Projects</h3>
+  <h3>MERN stack Projects</h3>
   <ul style="margin-left: 16px;">
     <li><a href="https://google.com"><b>to-do</b></a></li>
   </ul>
