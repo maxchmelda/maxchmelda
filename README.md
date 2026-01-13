@@ -31,8 +31,6 @@
 
 </div>
 
----
-
 <h2 align="left">Web Projects</h2>
 
 <div align="left">
