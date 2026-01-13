@@ -12,13 +12,13 @@
   </ul>
 </div>
 
- **<p align="left">I'm a full-stack web developer who loves turning ideas into fast, functional, and good looking web apps. Whether it's crafting smooth interfaces or building solid back-end systems, I care about making things that feel great to use and actually solve problems.</p>**
+ **<p align="left">I'm a developer who loves turning ideas into real apps. Whether it's making simple programs that can helm me in my day to day life or making websites for a local business. I care about learning something new each time and enjoying the process.</p>**
 
 **<h2 align="left">Connect with me:</h2>** 
 <p align="left"><a href="https://www.linkedin.com/in/max-chmelicek" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/max_chmelicek" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a><a href="https://www.instagram.com/max.chmelicek" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.tiktok.com/@maxos.ch" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="28" style="margin-right: 4px"></a>
 </p>
 
-<h2 align="left">👨‍💻 Software Development Projects</h2>
+<h2 align="left">Software Projects</h2>
 
 <div align="left">
 
@@ -33,7 +33,7 @@
 
 ---
 
-<h2 align="left">🌐 Web Development Projects</h2>
+<h2 align="left">Web Projects</h2>
 
 <div align="left">
   <h3>Websites</h3>
