@@ -26,7 +26,6 @@
   <ul style="margin-left: 16px;">
     <li><a href="https://github.com/maxchmelda/Simple-GPA-Calculator"><b>Simple GPA Calculator</b></a></li>
     <li><a href="https://github.com/maxchmelda/Image-to-ASCII-generator"><b>Image to ASCII generator</b></a></li>
-    <li><a href="https://github.com/maxchmelda/Static-site-server"><b>Static site server</b></a></li>
   </ul>
 
 </div>
