@@ -35,16 +35,11 @@
 <div align="left">
   <h3>Websites</h3>
   <ul style="margin-left: 16px;">
-    <li><a href="https://github.com/maxchmelda/Vojtech-Vahala"><b>Vojtěch Vahala</b></a></li>
-    <li><a href="https://github.com/maxchmelda/Masaze-kostelec"><b>Masáže Kostelec</b></a></li>
-    <li><a href="https://github.com/maxchmelda/Patrik-Romancik"><b>Patrik Romancik</b></a></li>
+    <li><a href="https://vojtech-vahala.vercel.app/"><b>Vojtěch Vahala</b></a></li>
+    <li><a href="https://www.masazekostelec.cz/"><b>Masáže Kostelec</b></a></li>
+    <li><a href="https://patrikromancik.cz/"><b>Patrik Romancik</b></a></li>
+    <li><a href="https://4life.games/"><b>4life RP</b></a></li>
   </ul>
-
-  <h3>Full-stack Projects</h3>
-  <ul style="margin-left: 16px;">
-    <li><a href="https://github.com/maxchmelda/4life"><b>4life RP</b></a></li>
-  </ul>
-
 </div>
 
 
