@@ -49,7 +49,7 @@
 
   [<img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge&logoWidth=40" alt="MariaDB">]: #
 
-  <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white&style=for-the-badge&logoWidth=40" alt="Python">
+  [<img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white&style=for-the-badge&logoWidth=40" alt="Python">]: #
 
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge&logoWidth=40" alt="C">
 
