@@ -18,29 +18,18 @@
 <p align="left"><a href="https://www.linkedin.com/in/max-chmelicek" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/max_chmelicek" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a><a href="https://www.instagram.com/max.chmelicek" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.tiktok.com/@maxos.ch" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="28" style="margin-right: 4px"></a>
 </p>
 
-<h2 align="left">Software Projects</h2>
+<h2 align="left">Projects</h2>
 
 <div align="left">
-
-  <h3>C/C++ Projects</h3>
   <ul style="margin-left: 16px;">
     <li><a href="https://github.com/maxchmelda/Simple-GPA-Calculator"><b>Simple GPA Calculator</b></a></li>
     <li><a href="https://github.com/maxchmelda/Image-to-ASCII-generator"><b>Image to ASCII generator</b></a></li>
-  </ul>
-
-</div>
-
-<h2 align="left">Web Projects</h2>
-
-<div align="left">
-  <h3>Websites</h3>
-  <ul style="margin-left: 16px;">
     <li><a href="https://vojtech-vahala.vercel.app/"><b>Vojtěch Vahala</b></a></li>
     <li><a href="https://www.masazekostelec.cz/"><b>Masáže Kostelec</b></a></li>
     <li><a href="https://4life.games/"><b>4life RP</b></a></li>
   </ul>
-</div>
 
+</div>
 
  **<h2 align="left">Skills</h2>**
 
