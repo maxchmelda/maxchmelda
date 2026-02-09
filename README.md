@@ -37,7 +37,6 @@
   <ul style="margin-left: 16px;">
     <li><a href="https://vojtech-vahala.vercel.app/"><b>Vojtěch Vahala</b></a></li>
     <li><a href="https://www.masazekostelec.cz/"><b>Masáže Kostelec</b></a></li>
-    <li><a href="https://patrikromancik.cz/"><b>Patrik Romancik</b></a></li>
     <li><a href="https://4life.games/"><b>4life RP</b></a></li>
   </ul>
 </div>
