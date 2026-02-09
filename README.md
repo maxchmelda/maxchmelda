@@ -22,9 +22,9 @@
   <ul style="margin-left: 16px;">
     <li><a href="https://github.com/maxchmelda/Simple-GPA-Calculator"><b>Simple GPA Calculator</b></a></li>
     <li><a href="https://github.com/maxchmelda/Image-to-ASCII-generator"><b>Image to ASCII generator</b></a></li>
-    <li><a href="https://vojtech-vahala.vercel.app/"><b>Vojtěch Vahala</b></a></li>
-    <li><a href="https://www.masazekostelec.cz/"><b>Masáže Kostelec</b></a></li>
-    <li><a href="https://4life.games/"><b>4life RP</b></a></li>
+    <li><a href="https://github.com/maxchmelda/Vojtech-Vahala"><b>Vojtěch Vahala</b></a></li>
+    <li><a href="https://github.com/maxchmelda/Masaze-kostelec"><b>Masáže Kostelec</b></a></li>
+    <li><a href="https://github.com/maxchmelda/4Life"><b>4life RP</b></a></li>
   </ul>
 
 </div>
