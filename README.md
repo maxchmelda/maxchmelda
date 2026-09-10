@@ -22,9 +22,8 @@
   <ul style="margin-left: 16px;">
     <li><a href="https://github.com/maxchmelda/Simple-GPA-Calculator"><b>Simple GPA Calculator</b></a></li>
     <li><a href="https://github.com/maxchmelda/Image-to-ASCII-generator"><b>Image to ASCII generator</b></a></li>
-    <li><a href="https://github.com/maxchmelda/Vojtech-Vahala"><b>Vojtěch Vahala</b></a></li>
-    <li><a href="https://github.com/maxchmelda/Masaze-kostelec"><b>Masáže Kostelec</b></a></li>
-    <li><a href="https://github.com/maxchmelda/4Life"><b>4life RP</b></a></li>
+    <li><a href="https://github.com/maxchmelda/pomodoro"><b>Pomodoro timer</b></a></li>
+    <li><a href="https://github.com/maxchmelda/link-shortener"><b>Link shortener</b></a></li>
   </ul>
 
 </div>
